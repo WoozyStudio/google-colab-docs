@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Google Colaboratory Documentation"
   text: "Unofficial Google Colab documentation."
-  tagline: My great project tagline
+  tagline: Created by Woozy's YT
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /docs/markdown-examples
+      text: Introduction
+      link: /docs/introduction
     - theme: alt
-      text: API Examples
-      link: /docs/api-examples
+      text: API
+      link: /api/
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
